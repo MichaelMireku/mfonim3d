@@ -1,0 +1,24 @@
+{
+  "author": "Michael Mireku <mirekumichaelk@gmail.com>",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+  "dependencies": {
+    "ammo.js": "^0.0.10",
+    "ammojs-typed": "^1.0.6",
+    "cannon": "^0.6.2",
+    "lil-gui": "^0.18.2",
+    "three": "^0.151.3",
+    "three-stdlib": "^2.21.8"
+  },
+  "devDependencies": {
+    "vite": "^4.5.1"
+  },
+  "name": "mfonim3d",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build"
+  },
+  "keywords": []
+}
