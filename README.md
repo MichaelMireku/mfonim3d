@@ -2,7 +2,7 @@
 
 //**Installation**//
 
-Github has file size limitations,download public folder from https://mfonim3dpublicassets.netlify.app/. Follow directive on site.
+Github has file size limitations,download public folder from https://mfonim3dpublicassets.netlify.app/. Follow directive on website.
 
 You need Node.js installed on your computer.
 And VSCode as an Editor.
@@ -35,4 +35,3 @@ You'll see the URL address and the info help. Like for example:
   ➜  Local:   http://123.4.5.6:7890/
   ➜  Network: use --host to expose  ➜  press h to show help
 ```
-redownload assets where necessary
