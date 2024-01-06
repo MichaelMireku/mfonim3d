@@ -33,3 +33,4 @@ You'll see the URL address and the info help. Like for example:
   ➜  Local:   http://123.4.5.6:7890/
   ➜  Network: use --host to expose  ➜  press h to show help
 ```
+redownload assets where necessary
