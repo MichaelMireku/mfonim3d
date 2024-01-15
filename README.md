@@ -1,6 +1,6 @@
-//**mfonim3d**//
+#mfonim3d
 
-//**Installation**//
+##Installation
 
 Github has file size limitations,download public folder from https://mfonim3dpublicassets.netlify.app/. Follow directive on website.
 
